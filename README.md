@@ -1,6 +1,6 @@
 ## Olá! sou o Fêr Buitrago
 
--  Atualmente estou cursando o 1° semestre de ciências da computação
+-  Atualmente estou cursando o 2° semestre de ciências da computação
 -  Aprendendo Python e assemebly
 
 
