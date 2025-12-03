@@ -5,6 +5,5 @@
 
 
 
-[![FerBuitrago's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerBuitrago)](https://github.com/FerBuitrago/github-readme-stats)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FerBuitrago&show_icons=true&theme=merko)
 
